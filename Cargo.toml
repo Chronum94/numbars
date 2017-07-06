@@ -5,6 +5,7 @@ authors = ["rdcox <rdcox@umass.edu>"]
 
 description = "Numerical data processing"
 
-license="MIT"
+repository = "https://github.com/rdcox/numbars"
 
+license="MIT"
 [dependencies]
