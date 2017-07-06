@@ -1,0 +1,6 @@
+[package]
+name = "numbars"
+version = "0.1.0"
+authors = ["rdcox <rdcox@umass.edu>"]
+
+[dependencies]
