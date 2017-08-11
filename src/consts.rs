@@ -10,4 +10,12 @@ const PI: f64 = 3.14159265358979323846264338327950288419716939937510582097494459
 const h: f64 = 6.626069934e-34;
 
 https://arxiv.org/abs/1507.07956
-const hbar: f64 c = 299792458.0
+const c: f64 = 299792458.0; //exact
+const mu_0: f64 = 4*PI*1e-7; //exact
+const epsilon_0: f64 = 1/(mu_0*c*c); //exact
+
+/*
+The numbers in the comments are the uncertainties in the last
+relevant number (typically 2) of digits.
+*/
+const gravitational_constant: f64 = 6.67408e-11 //(31)
